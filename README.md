@@ -12,3 +12,6 @@ penggunaan kondisi when
 <img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/aee04633-f8c9-4f41-88ac-320411f2588f" />
 perulangan for dengan range
 <img width="2870" height="1794" alt="image" src="https://github.com/user-attachments/assets/654a084b-27bd-44f6-8f0d-db58730583bd" />
+perulangan for dengan collection
+<img width="2870" height="1794" alt="image" src="https://github.com/user-attachments/assets/d275c89a-bb8c-4180-a0b4-a87b0e24ee66" />
+
