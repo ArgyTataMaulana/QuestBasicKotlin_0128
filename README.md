@@ -10,3 +10,5 @@ penggunaan kondisi if
 <img width="2880" height="1798" alt="image" src="https://github.com/user-attachments/assets/cdb93456-d1cb-445d-a145-95a1dbe594c9" />
 penggunaan kondisi when
 <img width="2868" height="1800" alt="image" src="https://github.com/user-attachments/assets/aee04633-f8c9-4f41-88ac-320411f2588f" />
+perulangan for dengan range
+<img width="2870" height="1794" alt="image" src="https://github.com/user-attachments/assets/654a084b-27bd-44f6-8f0d-db58730583bd" />
