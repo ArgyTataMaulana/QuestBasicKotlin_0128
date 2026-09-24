@@ -18,4 +18,6 @@ perulangan while
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8fd9b076-da47-4a87-a012-61f5d0eb1287" />
 perulangan do-while
 <img width="2874" height="1786" alt="image" src="https://github.com/user-attachments/assets/430f4c69-62c0-4090-a2cf-1d02e81b9cee" />
+penggunaan lambda
+<img width="2870" height="1788" alt="image" src="https://github.com/user-attachments/assets/4ee7598c-0fe5-47b0-a590-223637434916" />
 
