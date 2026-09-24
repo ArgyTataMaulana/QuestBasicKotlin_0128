@@ -14,4 +14,6 @@ perulangan for dengan range
 <img width="2870" height="1794" alt="image" src="https://github.com/user-attachments/assets/654a084b-27bd-44f6-8f0d-db58730583bd" />
 perulangan for dengan collection
 <img width="2870" height="1794" alt="image" src="https://github.com/user-attachments/assets/d275c89a-bb8c-4180-a0b4-a87b0e24ee66" />
+perulangan while
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/8fd9b076-da47-4a87-a012-61f5d0eb1287" />
 
